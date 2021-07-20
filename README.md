@@ -1,5 +1,5 @@
 # LifeRP-Premade_FiveM-Server_Base
-FiveM Server Base Custom Scripts,Modded ESX Version of Scripts,Map Mods,Addon Vehicles
+FiveM Server Base Custom Scripts,Modded ESX Version of Scripts,Map Mods,Addon Vehicles Includes vMenu.
 
 # CopyRight Notice
 You can use this base or files for your Server 
@@ -13,5 +13,7 @@ You can use this base or files for your Server
 
 # Here : 
  
- # Purchase Premium Files Here : https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VP956KLN7BJY
+ # Purchase Premium Files Here : $30USD https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VP956KLN7BJY
+ 
+ # Files will get Free Lifetime Updates 
  
