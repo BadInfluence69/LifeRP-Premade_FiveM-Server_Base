@@ -12,7 +12,11 @@ You can use this base or files for your Server
  
 # Note These Files are Premium so if you want to test out what these Files offer then join the Server and see for yourself and if you like what the server offers than you can Purchase the Files
 
-# Here : 
+# Test out what These Files Offer 
+
+# Here : https://servers.fivem.net/servers/detail/gg8bym
+
+#Here : https://servers.fivem.net/servers/detail/gg8bym
  
  # Purchase Premium Files Here : $30USD https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VP956KLN7BJY
  
