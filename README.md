@@ -13,6 +13,5 @@ You can use this base or files for your Server
 
 # Here : 
  
- # Download Here : Inprogress of Uploading Files - will update this once Files have been fixed up and are ready
- 
+ # Purchase Premium Files Here : https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VP956KLN7BJY
  
