@@ -9,4 +9,8 @@ You can use this base or files for your Server
  Subscribe to my 
  # YouTube Channel: https://www.youtube.com/c/badinfluenceyt/videos
  
- # Download Here : 
+# Note These Files are Premium so if you want bto test out what these Files offer then join the Server and see for yourself
+ 
+ # Download Here : Inprogress of Uploading Files - will update this once Files have been fixed up and are ready
+ 
+ 
