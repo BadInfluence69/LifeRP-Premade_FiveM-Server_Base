@@ -16,7 +16,7 @@ You can use this base or files for your Server
 
 # Here : https://servers.fivem.net/servers/detail/gg8bym
 
-#Here : https://servers.fivem.net/servers/detail/gg8bym
+# Here : https://servers.fivem.net/servers/detail/gg8bym
  
  # Purchase Premium Files Here : $30USD https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VP956KLN7BJY
  
