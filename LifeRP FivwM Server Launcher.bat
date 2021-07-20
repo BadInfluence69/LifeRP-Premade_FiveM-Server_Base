@@ -1,1 +1,0 @@
-start chrome https://servers.fivem.net/servers/detail/gg8bym
